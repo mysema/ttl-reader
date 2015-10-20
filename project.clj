@@ -1,4 +1,4 @@
-(defproject ttl-reader "0.1.0"
+(defproject mysema/ttl-reader "0.1.0"
   :description "Fast turtle reader"
   :url "http://mysema.com"
   :license {:name "Eclipse Public License"
